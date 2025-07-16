@@ -1,4 +1,11 @@
 .row input{
     border: 1px solid gray;
+    box-shadow: 0 0 5px gray;
 
+}
+.btn{
+    box-shadow: 0 0 5px blue;
+}
+.col h2{
+    color: red;
 }
